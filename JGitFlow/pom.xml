@@ -6,7 +6,6 @@
     <artifactId>jgitflowtest</artifactId>
     <version>1.7-mock__feature-SNAPSHOT</version>
 
-
     <build>
         <plugins>
             <plugin>
@@ -27,6 +26,6 @@
                 </configuration>
             </plugin>
         </plugins>
-
     </build>
+
 </project>
